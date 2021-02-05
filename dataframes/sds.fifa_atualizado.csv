@@ -1,0 +1,121 @@
+,Nome,Idade,Posicao,Media,Potencial,Time,Salario,Total_Pontos
+0, V. Thill,20,RW,63,77,CD Nacional,2000,1551
+1, S. Wamangituka,20,RM,72,83,VfB Stuttgart,13000,1847
+2, 14 A. Wolf,31,CB,73,73,AS Monaco,30000,1621
+3, N. De la Cruz,23,CM,78,85,River Plate,17000,2180
+4, Isco,28,CAM,83,83,Real Madrid,190000,2077
+5, S. Córdova,23,LM,75,83,Club América,30000,1940
+6, X. Simons,17,CM,65,85,Paris Saint-Germain,2000,1656
+7, J. Grealish,24,LW,83,86,Aston Villa,82000,2014
+8, A. Diallo,17,ST,64,84,Manchester United,5000,1510
+9, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,20000,2035
+10, R. Gravenberch,18,CM,75,89,Ajax,6000,2016
+11, R. Cherki,16,RW,69,88,Olympique Lyonnais,6000,1623
+12, Nanu,26,RB,73,76,FC Porto,10000,1969
+13, E. Hazard,29,LW,87,87,Real Madrid,290000,2096
+14, Y. Demir,17,CAM,66,87,SK Rapid Wien,1000,1629
+15, C. Hudson-Odoi,19,RW,75,86,Chelsea,44000,1816
+16, B. Saka,18,RM,77,88,Arsenal,25000,1968
+17, B. White,22,CB,76,87,Brighton & Hove Albion,40000,1663
+18, Bruno Viana,25,CB,77,81,SC Braga,14000,1733
+19, E. Haaland,19,ST,86,92,Borussia Dortmund,67000,2052
+20, M. Mandžukić,34,ST,79,79,Milan,48000,2041
+21, Pedri,17,LM,76,90,FC Barcelona,14000,1865
+22, E. Camavinga,17,CM,78,89,Stade Rennais FC,6000,2086
+23, J. Musiala,17,CAM,68,85,FC Bayern München,3000,1561
+24, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,16000,1734
+25, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,500,1817
+26, N. Madueke,18,RM,72,87,PSV,5000,1792
+27, D. Upamecano,21,CB,81,90,RB Leipzig,41000,1841
+28, J. Lingard,27,CAM,77,77,Manchester United,95000,2064
+29, J. Bellingham,17,CM,74,88,Borussia Dortmund,6000,1962
+30, R. Araujo,21,CB,71,81,FC Barcelona,45000,1591
+31, Ansu Fati,17,LW,76,90,FC Barcelona,24000,1817
+32, L. Messi,33,RW,93,93,FC Barcelona,560000,2231
+33, G. Reyna,17,CAM,75,88,Borussia Dortmund,6000,1858
+34, D. Szoboszlai,19,CAM,77,87,RB Leipzig,27000,1967
+35, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,6000,1750
+36, M. Greenwood,18,RM,77,89,Manchester United,33000,1922
+37, M. Vandevoordt,18,GK,68,86,KRC Genk,550,911
+38, Matheus Cunha,21,CAM,80,87,Hertha BSC,40000,1993
+39, A. Hložek,17,ST,74,87,Sparta Praha,500,1881
+40, O. Kabak,20,CB,75,85,FC Schalke 04,17000,1714
+41, S. Dest,19,RB,75,88,FC Barcelona,50000,1964
+42, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,7000,1876
+43, T. Almada,19,CAM,74,88,Vélez Sarsfield,9000,2001
+44, P. Daka,21,ST,76,83,FC Red Bull Salzburg,22000,1832
+45, M. Mount,21,CAM,80,87,Chelsea,70000,1997
+46, P. De la Vega,19,RW,74,88,Club Atlético Lanús,11000,1981
+47, Cristiano Ronaldo,35,ST,92,92,Juventus,220000,2221
+48, D. Núñez,21,ST,76,87,SL Benfica,11000,1905
+49, Antony,20,RW,79,88,Ajax,17000,1939
+50, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,20000,1777
+51, F. Pellistri,18,RM,71,87,Manchester United,19000,1736
+52, Pedro Gonçalves,22,RW,79,87,Sporting CP,16000,2021
+53, M. Ihattaren,18,CAM,77,87,PSV,7000,1891
+54, R. Jones,17,ST,59,82,Peterborough United,500,1544
+55, T. Souček,25,CDM,81,86,West Ham United,46000,2075
+56, Rúben Dias,23,CB,82,87,Manchester City,110000,1777
+57, P. Foden,20,CAM,81,91,Manchester City,95000,1997
+58, Nuno Tavares,20,LB,73,86,SL Benfica,7000,1900
+59, M. Kudus,19,CAM,77,87,Ajax,10000,2015
+60, T. Nianzou,18,CB,71,85,FC Bayern München,10000,1652
+61, M. Ødegaard,21,CAM,83,89,Arsenal,135000,2096
+62, C. Tzolis,18,LW,70,87,PAOK,500,1815
+63, G. Bale,30,RM,82,82,Tottenham Hotspur,170000,2194
+64, K. Mbappé,21,ST,90,95,Paris Saint-Germain,160000,2147
+65, R. Lewandowski,31,ST,92,92,FC Bayern München,270000,2213
+66, A. Davies,19,LB,81,89,FC Bayern München,40000,2111
+67, Riqui Puig,20,CM,75,87,FC Barcelona,77000,1889
+68, J. Kimmich,25,CDM,89,90,FC Bayern München,150000,2284
+69, Neymar Jr,28,LW,91,91,Paris Saint-Germain,270000,2175
+70, D. Kulusevski,20,RW,78,88,Juventus,58000,2005
+71, J. Sancho,20,RM,86,92,Borussia Dortmund,76000,1999
+72, A. Aouchiche,17,CAM,71,83,AS Saint-Étienne,2000,1786
+73, Bruno Fernandes,25,CAM,88,91,Manchester United,240000,2336
+74, C. Jones,19,CM,71,86,Liverpool,25000,1856
+75, K. Havertz,21,CAM,84,92,Chelsea,95000,2052
+76, W. Fofana,19,CB,75,85,Leicester City,30000,1724
+77, A. Griezmann,29,ST,86,86,FC Barcelona,270000,2276
+78, H. Son,27,LM,89,89,Tottenham Hotspur,210000,2146
+79, Marcos Llorente,25,CM,84,87,Atlético Madrid,78000,2238
+80, B. Brobbey,18,ST,68,83,Ajax,3000,1677
+81, I. Moriba,17,CM,65,85,FC Barcelona,4000,1742
+82, R. James,20,RB,78,86,Chelsea,53000,2035
+83, C. De Ketelaere,19,ST,73,86,Club Brugge KV,13000,1933
+84, F. de Jong,23,CM,86,91,FC Barcelona,210000,2189
+85, J. David,20,ST,77,86,LOSC Lille,29000,1818
+86, J. Koundé,21,CB,81,87,Sevilla FC,23000,1835
+87, João Félix,20,CF,83,93,Atlético Madrid,61000,2072
+88, I. Konaté,21,CB,78,88,RB Leipzig,33000,1725
+89, S. Haller,26,ST,80,82,Ajax,23000,1948
+90, K. Dembélé,17,RM,63,82,Celtic,1000,1469
+91, B. Kamara,20,CDM,79,85,Olympique de Marseille,29000,1902
+92, Vinícius Jr.,19,LW,80,90,Real Madrid,95000,1916
+93, H. Elliott,17,RW,70,87,Blackburn Rovers,9000,1610
+94, Gabriel Martinelli,19,LW,74,86,Arsenal,38000,1844
+95, T. Kubo,19,RM,75,88,Getafe CF,59000,1826
+96, A. Gignac,34,ST,81,81,Tigres U.A.N.L.,66000,2018
+97, E. Tapsoba,21,CB,80,87,Bayer 04 Leverkusen,44000,1875
+98, A. Hakimi,21,RM,83,88,Inter,90000,2150
+99, E. Smith Rowe,19,CAM,73,85,Arsenal,30000,1719
+100, N. Mukiele,22,RB,80,86,RB Leipzig,46000,1950
+101, C. Pulisic,21,LW,81,87,Chelsea,83000,1946
+102, D. Rice,21,CDM,79,86,West Ham United,31000,1823
+103, Eric García,19,CB,73,85,Manchester City,36000,1657
+104, T. Werner,24,ST,84,87,Chelsea,125000,2016
+105, S. Tonali,20,CDM,77,88,Milan,25000,2085
+106, N. González,22,ST,76,83,VfB Stuttgart,23000,1898
+107, Rodrygo,19,RW,79,90,Real Madrid,90000,1931
+108, H. Lozano,24,RW,81,84,Napoli,71000,2002
+109, M. Rashford,22,LM,85,91,Manchester United,150000,2158
+110, B. Arrey-Mbi,17,CB,62,85,Bayern München II,500,1495
+111, Trincão,20,RW,77,87,FC Barcelona,95000,1906
+112, A. Valencia,34,RB,78,78,Querétaro,13000,2067
+113, D. Man,21,RW,74,84,FCSB (Steaua),13000,1947
+114, L. Stergiou,18,CB,67,86,FC St. Gallen,1000,1529
+115, Fábio Silva,17,ST,69,85,Wolverhampton Wanderers,7000,1621
+116, A. Velasco,17,LM,71,85,Independiente,2000,1852
+117, M. Boadu,19,ST,75,85,AZ Alkmaar,7000,1812
+118, M. Aarons,20,RB,74,83,Norwich City,8000,1788
+119, B. Williams,19,LB,75,83,Manchester United,40000,1904

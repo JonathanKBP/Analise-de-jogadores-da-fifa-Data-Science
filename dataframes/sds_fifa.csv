@@ -1,0 +1,3001 @@
+,Nome,Idade,Posicao,Media,Potencial,Time,Salario,Total_Pontos
+0, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+2, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+3, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+4, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+5, S. Córdova,23,LM,75,83,Club América,€30K,1940
+6, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+7, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+8, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+9, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+10, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+11, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+12, Nanu,26,RB,73,76,FC Porto,€10K,1969
+13, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+14, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+15, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+16, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+17, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+18, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+19, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+20, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+21, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+22, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+23, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+24, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+25, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+26, N. Madueke,18,RM,72,87,PSV,€5K,1792
+27, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+28, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+29, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+30, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+31, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+32, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+33, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+34, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+35, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+36, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+37, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+38, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+39, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+40, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+41, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+42, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+43, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+44, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+45, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+46, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+47, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+48, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+49, Antony,20,RW,79,88,Ajax,€17K,1939
+50, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+51, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+52, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+53, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+54, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+55, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+56, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+57, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+58, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+59, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+60, T. Nianzou,18,CB,71,85,FC Bayern München,€10K,1652
+61, M. Ødegaard,21,CAM,83,89,Arsenal,€135K,2096
+62, C. Tzolis,18,LW,70,87,PAOK,€500,1815
+63, G. Bale,30,RM,82,82,Tottenham Hotspur,€170K,2194
+64, K. Mbappé,21,ST,90,95,Paris Saint-Germain,€160K,2147
+65, R. Lewandowski,31,ST,92,92,FC Bayern München,€270K,2213
+66, A. Davies,19,LB,81,89,FC Bayern München,€40K,2111
+67, Riqui Puig,20,CM,75,87,FC Barcelona,€77K,1889
+68, J. Kimmich,25,CDM,89,90,FC Bayern München,€150K,2284
+69, Neymar Jr,28,LW,91,91,Paris Saint-Germain,€270K,2175
+70, D. Kulusevski,20,RW,78,88,Juventus,€58K,2005
+71, J. Sancho,20,RM,86,92,Borussia Dortmund,€76K,1999
+72, A. Aouchiche,17,CAM,71,83,AS Saint-Étienne,€2K,1786
+73, Bruno Fernandes,25,CAM,88,91,Manchester United,€240K,2336
+74, C. Jones,19,CM,71,86,Liverpool,€25K,1856
+75, K. Havertz,21,CAM,84,92,Chelsea,€95K,2052
+76, W. Fofana,19,CB,75,85,Leicester City,€30K,1724
+77, A. Griezmann,29,ST,86,86,FC Barcelona,€270K,2276
+78, H. Son,27,LM,89,89,Tottenham Hotspur,€210K,2146
+79, Marcos Llorente,25,CM,84,87,Atlético Madrid,€78K,2238
+80, B. Brobbey,18,ST,68,83,Ajax,€3K,1677
+81, I. Moriba,17,CM,65,85,FC Barcelona,€4K,1742
+82, R. James,20,RB,78,86,Chelsea,€53K,2035
+83, C. De Ketelaere,19,ST,73,86,Club Brugge KV,€13K,1933
+84, F. de Jong,23,CM,86,91,FC Barcelona,€210K,2189
+85, J. David,20,ST,77,86,LOSC Lille,€29K,1818
+86, J. Koundé,21,CB,81,87,Sevilla FC,€23K,1835
+87, João Félix,20,CF,83,93,Atlético Madrid,€61K,2072
+88, I. Konaté,21,CB,78,88,RB Leipzig,€33K,1725
+89, S. Haller,26,ST,80,82,Ajax,€23K,1948
+90, K. Dembélé,17,RM,63,82,Celtic,€1K,1469
+91, B. Kamara,20,CDM,79,85,Olympique de Marseille,€29K,1902
+92, Vinícius Jr.,19,LW,80,90,Real Madrid,€95K,1916
+93, H. Elliott,17,RW,70,87,Blackburn Rovers,€9K,1610
+94, Gabriel Martinelli,19,LW,74,86,Arsenal,€38K,1844
+95, T. Kubo,19,RM,75,88,Getafe CF,€59K,1826
+96, A. Gignac,34,ST,81,81,Tigres U.A.N.L.,€66K,2018
+97, E. Tapsoba,21,CB,80,87,Bayer 04 Leverkusen,€44K,1875
+98, A. Hakimi,21,RM,83,88,Inter,€90K,2150
+99, E. Smith Rowe,19,CAM,73,85,Arsenal,€30K,1719
+100, N. Mukiele,22,RB,80,86,RB Leipzig,€46K,1950
+101, C. Pulisic,21,LW,81,87,Chelsea,€83K,1946
+102, D. Rice,21,CDM,79,86,West Ham United,€31K,1823
+103, Eric García,19,CB,73,85,Manchester City,€36K,1657
+104, T. Werner,24,ST,84,87,Chelsea,€125K,2016
+105, S. Tonali,20,CDM,77,88,Milan,€25K,2085
+106, N. González,22,ST,76,83,VfB Stuttgart,€23K,1898
+107, Rodrygo,19,RW,79,90,Real Madrid,€90K,1931
+108, H. Lozano,24,RW,81,84,Napoli,€71K,2002
+109, M. Rashford,22,LM,85,91,Manchester United,€150K,2158
+110, B. Arrey-Mbi,17,CB,62,85,Bayern München II,€500,1495
+111, Trincão,20,RW,77,87,FC Barcelona,€95K,1906
+112, A. Valencia,34,RB,78,78,Querétaro,€13K,2067
+113, D. Man,21,RW,74,84,FCSB (Steaua),€13K,1947
+114, L. Stergiou,18,CB,67,86,FC St. Gallen,€1K,1529
+115, Fábio Silva,17,ST,69,85,Wolverhampton Wanderers,€7K,1621
+116, A. Velasco,17,LM,71,85,Independiente,€2K,1852
+117, M. Boadu,19,ST,75,85,AZ Alkmaar,€7K,1812
+118, M. Aarons,20,RB,74,83,Norwich City,€8K,1788
+119, B. Williams,19,LB,75,83,Manchester United,€40K,1904
+120, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+121, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+122, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+123, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+124, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+125, S. Córdova,23,LM,75,83,Club América,€30K,1940
+126, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+127, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+128, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+129, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+130, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+131, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+132, Nanu,26,RB,73,76,FC Porto,€10K,1969
+133, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+134, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+135, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+136, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+137, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+138, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+139, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+140, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+141, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+142, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+143, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+144, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+145, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+146, N. Madueke,18,RM,72,87,PSV,€5K,1792
+147, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+148, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+149, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+150, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+151, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+152, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+153, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+154, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+155, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+156, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+157, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+158, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+159, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+160, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+161, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+162, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+163, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+164, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+165, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+166, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+167, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+168, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+169, Antony,20,RW,79,88,Ajax,€17K,1939
+170, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+171, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+172, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+173, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+174, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+175, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+176, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+177, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+178, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+179, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+180, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+181, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+182, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+183, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+184, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+185, S. Córdova,23,LM,75,83,Club América,€30K,1940
+186, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+187, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+188, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+189, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+190, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+191, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+192, Nanu,26,RB,73,76,FC Porto,€10K,1969
+193, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+194, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+195, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+196, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+197, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+198, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+199, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+200, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+201, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+202, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+203, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+204, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+205, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+206, N. Madueke,18,RM,72,87,PSV,€5K,1792
+207, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+208, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+209, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+210, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+211, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+212, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+213, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+214, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+215, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+216, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+217, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+218, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+219, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+220, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+221, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+222, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+223, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+224, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+225, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+226, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+227, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+228, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+229, Antony,20,RW,79,88,Ajax,€17K,1939
+230, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+231, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+232, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+233, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+234, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+235, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+236, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+237, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+238, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+239, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+240, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+241, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+242, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+243, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+244, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+245, S. Córdova,23,LM,75,83,Club América,€30K,1940
+246, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+247, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+248, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+249, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+250, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+251, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+252, Nanu,26,RB,73,76,FC Porto,€10K,1969
+253, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+254, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+255, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+256, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+257, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+258, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+259, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+260, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+261, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+262, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+263, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+264, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+265, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+266, N. Madueke,18,RM,72,87,PSV,€5K,1792
+267, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+268, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+269, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+270, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+271, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+272, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+273, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+274, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+275, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+276, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+277, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+278, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+279, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+280, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+281, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+282, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+283, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+284, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+285, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+286, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+287, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+288, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+289, Antony,20,RW,79,88,Ajax,€17K,1939
+290, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+291, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+292, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+293, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+294, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+295, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+296, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+297, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+298, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+299, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+300, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+301, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+302, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+303, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+304, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+305, S. Córdova,23,LM,75,83,Club América,€30K,1940
+306, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+307, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+308, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+309, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+310, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+311, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+312, Nanu,26,RB,73,76,FC Porto,€10K,1969
+313, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+314, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+315, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+316, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+317, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+318, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+319, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+320, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+321, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+322, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+323, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+324, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+325, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+326, N. Madueke,18,RM,72,87,PSV,€5K,1792
+327, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+328, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+329, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+330, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+331, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+332, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+333, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+334, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+335, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+336, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+337, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+338, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+339, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+340, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+341, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+342, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+343, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+344, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+345, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+346, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+347, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+348, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+349, Antony,20,RW,79,88,Ajax,€17K,1939
+350, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+351, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+352, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+353, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+354, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+355, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+356, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+357, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+358, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+359, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+360, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+361, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+362, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+363, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+364, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+365, S. Córdova,23,LM,75,83,Club América,€30K,1940
+366, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+367, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+368, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+369, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+370, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+371, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+372, Nanu,26,RB,73,76,FC Porto,€10K,1969
+373, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+374, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+375, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+376, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+377, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+378, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+379, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+380, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+381, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+382, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+383, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+384, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+385, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+386, N. Madueke,18,RM,72,87,PSV,€5K,1792
+387, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+388, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+389, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+390, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+391, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+392, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+393, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+394, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+395, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+396, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+397, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+398, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+399, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+400, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+401, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+402, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+403, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+404, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+405, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+406, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+407, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+408, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+409, Antony,20,RW,79,88,Ajax,€17K,1939
+410, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+411, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+412, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+413, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+414, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+415, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+416, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+417, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+418, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+419, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+420, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+421, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+422, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+423, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+424, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+425, S. Córdova,23,LM,75,83,Club América,€30K,1940
+426, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+427, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+428, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+429, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+430, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+431, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+432, Nanu,26,RB,73,76,FC Porto,€10K,1969
+433, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+434, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+435, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+436, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+437, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+438, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+439, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+440, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+441, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+442, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+443, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+444, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+445, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+446, N. Madueke,18,RM,72,87,PSV,€5K,1792
+447, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+448, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+449, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+450, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+451, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+452, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+453, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+454, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+455, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+456, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+457, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+458, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+459, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+460, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+461, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+462, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+463, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+464, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+465, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+466, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+467, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+468, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+469, Antony,20,RW,79,88,Ajax,€17K,1939
+470, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+471, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+472, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+473, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+474, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+475, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+476, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+477, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+478, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+479, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+480, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+481, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+482, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+483, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+484, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+485, S. Córdova,23,LM,75,83,Club América,€30K,1940
+486, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+487, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+488, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+489, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+490, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+491, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+492, Nanu,26,RB,73,76,FC Porto,€10K,1969
+493, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+494, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+495, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+496, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+497, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+498, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+499, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+500, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+501, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+502, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+503, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+504, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+505, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+506, N. Madueke,18,RM,72,87,PSV,€5K,1792
+507, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+508, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+509, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+510, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+511, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+512, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+513, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+514, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+515, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+516, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+517, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+518, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+519, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+520, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+521, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+522, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+523, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+524, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+525, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+526, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+527, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+528, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+529, Antony,20,RW,79,88,Ajax,€17K,1939
+530, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+531, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+532, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+533, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+534, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+535, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+536, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+537, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+538, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+539, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+540, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+541, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+542, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+543, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+544, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+545, S. Córdova,23,LM,75,83,Club América,€30K,1940
+546, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+547, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+548, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+549, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+550, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+551, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+552, Nanu,26,RB,73,76,FC Porto,€10K,1969
+553, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+554, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+555, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+556, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+557, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+558, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+559, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+560, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+561, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+562, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+563, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+564, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+565, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+566, N. Madueke,18,RM,72,87,PSV,€5K,1792
+567, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+568, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+569, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+570, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+571, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+572, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+573, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+574, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+575, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+576, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+577, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+578, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+579, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+580, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+581, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+582, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+583, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+584, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+585, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+586, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+587, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+588, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+589, Antony,20,RW,79,88,Ajax,€17K,1939
+590, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+591, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+592, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+593, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+594, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+595, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+596, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+597, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+598, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+599, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+600, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+601, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+602, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+603, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+604, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+605, S. Córdova,23,LM,75,83,Club América,€30K,1940
+606, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+607, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+608, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+609, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+610, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+611, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+612, Nanu,26,RB,73,76,FC Porto,€10K,1969
+613, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+614, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+615, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+616, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+617, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+618, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+619, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+620, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+621, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+622, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+623, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+624, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+625, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+626, N. Madueke,18,RM,72,87,PSV,€5K,1792
+627, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+628, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+629, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+630, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+631, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+632, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+633, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+634, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+635, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+636, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+637, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+638, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+639, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+640, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+641, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+642, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+643, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+644, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+645, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+646, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+647, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+648, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+649, Antony,20,RW,79,88,Ajax,€17K,1939
+650, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+651, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+652, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+653, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+654, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+655, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+656, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+657, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+658, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+659, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+660, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+661, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+662, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+663, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+664, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+665, S. Córdova,23,LM,75,83,Club América,€30K,1940
+666, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+667, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+668, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+669, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+670, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+671, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+672, Nanu,26,RB,73,76,FC Porto,€10K,1969
+673, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+674, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+675, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+676, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+677, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+678, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+679, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+680, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+681, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+682, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+683, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+684, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+685, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+686, N. Madueke,18,RM,72,87,PSV,€5K,1792
+687, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+688, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+689, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+690, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+691, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+692, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+693, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+694, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+695, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+696, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+697, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+698, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+699, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+700, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+701, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+702, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+703, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+704, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+705, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+706, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+707, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+708, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+709, Antony,20,RW,79,88,Ajax,€17K,1939
+710, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+711, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+712, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+713, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+714, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+715, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+716, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+717, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+718, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+719, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+720, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+721, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+722, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+723, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+724, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+725, S. Córdova,23,LM,75,83,Club América,€30K,1940
+726, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+727, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+728, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+729, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+730, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+731, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+732, Nanu,26,RB,73,76,FC Porto,€10K,1969
+733, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+734, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+735, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+736, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+737, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+738, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+739, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+740, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+741, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+742, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+743, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+744, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+745, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+746, N. Madueke,18,RM,72,87,PSV,€5K,1792
+747, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+748, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+749, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+750, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+751, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+752, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+753, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+754, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+755, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+756, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+757, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+758, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+759, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+760, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+761, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+762, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+763, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+764, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+765, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+766, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+767, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+768, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+769, Antony,20,RW,79,88,Ajax,€17K,1939
+770, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+771, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+772, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+773, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+774, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+775, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+776, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+777, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+778, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+779, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+780, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+781, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+782, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+783, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+784, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+785, S. Córdova,23,LM,75,83,Club América,€30K,1940
+786, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+787, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+788, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+789, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+790, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+791, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+792, Nanu,26,RB,73,76,FC Porto,€10K,1969
+793, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+794, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+795, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+796, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+797, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+798, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+799, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+800, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+801, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+802, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+803, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+804, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+805, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+806, N. Madueke,18,RM,72,87,PSV,€5K,1792
+807, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+808, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+809, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+810, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+811, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+812, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+813, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+814, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+815, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+816, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+817, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+818, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+819, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+820, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+821, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+822, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+823, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+824, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+825, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+826, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+827, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+828, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+829, Antony,20,RW,79,88,Ajax,€17K,1939
+830, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+831, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+832, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+833, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+834, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+835, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+836, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+837, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+838, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+839, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+840, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+841, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+842, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+843, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+844, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+845, S. Córdova,23,LM,75,83,Club América,€30K,1940
+846, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+847, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+848, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+849, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+850, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+851, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+852, Nanu,26,RB,73,76,FC Porto,€10K,1969
+853, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+854, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+855, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+856, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+857, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+858, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+859, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+860, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+861, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+862, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+863, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+864, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+865, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+866, N. Madueke,18,RM,72,87,PSV,€5K,1792
+867, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+868, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+869, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+870, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+871, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+872, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+873, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+874, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+875, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+876, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+877, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+878, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+879, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+880, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+881, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+882, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+883, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+884, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+885, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+886, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+887, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+888, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+889, Antony,20,RW,79,88,Ajax,€17K,1939
+890, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+891, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+892, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+893, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+894, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+895, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+896, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+897, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+898, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+899, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+900, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+901, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+902, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+903, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+904, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+905, S. Córdova,23,LM,75,83,Club América,€30K,1940
+906, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+907, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+908, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+909, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+910, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+911, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+912, Nanu,26,RB,73,76,FC Porto,€10K,1969
+913, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+914, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+915, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+916, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+917, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+918, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+919, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+920, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+921, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+922, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+923, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+924, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+925, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+926, N. Madueke,18,RM,72,87,PSV,€5K,1792
+927, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+928, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+929, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+930, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+931, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+932, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+933, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+934, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+935, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+936, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+937, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+938, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+939, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+940, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+941, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+942, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+943, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+944, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+945, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+946, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+947, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+948, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+949, Antony,20,RW,79,88,Ajax,€17K,1939
+950, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+951, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+952, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+953, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+954, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+955, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+956, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+957, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+958, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+959, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+960, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+961, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+962, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+963, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+964, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+965, S. Córdova,23,LM,75,83,Club América,€30K,1940
+966, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+967, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+968, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+969, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+970, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+971, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+972, Nanu,26,RB,73,76,FC Porto,€10K,1969
+973, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+974, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+975, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+976, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+977, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+978, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+979, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+980, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+981, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+982, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+983, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+984, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+985, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+986, N. Madueke,18,RM,72,87,PSV,€5K,1792
+987, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+988, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+989, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+990, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+991, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+992, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+993, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+994, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+995, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+996, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+997, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+998, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+999, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+1000, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+1001, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+1002, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+1003, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+1004, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+1005, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+1006, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+1007, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+1008, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+1009, Antony,20,RW,79,88,Ajax,€17K,1939
+1010, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+1011, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+1012, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+1013, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+1014, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+1015, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+1016, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+1017, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+1018, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+1019, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+1020, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1021, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+1022, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+1023, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+1024, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+1025, S. Córdova,23,LM,75,83,Club América,€30K,1940
+1026, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+1027, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+1028, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+1029, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+1030, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+1031, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+1032, Nanu,26,RB,73,76,FC Porto,€10K,1969
+1033, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+1034, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+1035, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+1036, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+1037, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+1038, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+1039, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+1040, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+1041, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+1042, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+1043, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+1044, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+1045, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+1046, N. Madueke,18,RM,72,87,PSV,€5K,1792
+1047, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+1048, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+1049, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+1050, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+1051, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+1052, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+1053, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+1054, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+1055, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+1056, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+1057, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+1058, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+1059, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+1060, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+1061, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+1062, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+1063, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+1064, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+1065, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+1066, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+1067, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+1068, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+1069, Antony,20,RW,79,88,Ajax,€17K,1939
+1070, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+1071, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+1072, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+1073, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+1074, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+1075, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+1076, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+1077, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+1078, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+1079, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+1080, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1081, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+1082, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+1083, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+1084, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+1085, S. Córdova,23,LM,75,83,Club América,€30K,1940
+1086, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+1087, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+1088, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+1089, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+1090, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+1091, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+1092, Nanu,26,RB,73,76,FC Porto,€10K,1969
+1093, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+1094, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+1095, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+1096, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+1097, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+1098, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+1099, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+1100, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+1101, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+1102, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+1103, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+1104, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+1105, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+1106, N. Madueke,18,RM,72,87,PSV,€5K,1792
+1107, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+1108, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+1109, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+1110, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+1111, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+1112, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+1113, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+1114, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+1115, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+1116, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+1117, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+1118, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+1119, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+1120, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+1121, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+1122, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+1123, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+1124, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+1125, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+1126, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+1127, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+1128, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+1129, Antony,20,RW,79,88,Ajax,€17K,1939
+1130, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+1131, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+1132, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+1133, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+1134, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+1135, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+1136, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+1137, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+1138, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+1139, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+1140, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1141, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+1142, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+1143, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+1144, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+1145, S. Córdova,23,LM,75,83,Club América,€30K,1940
+1146, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+1147, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+1148, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+1149, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+1150, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+1151, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+1152, Nanu,26,RB,73,76,FC Porto,€10K,1969
+1153, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+1154, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+1155, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+1156, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+1157, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+1158, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+1159, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+1160, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+1161, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+1162, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+1163, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+1164, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+1165, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+1166, N. Madueke,18,RM,72,87,PSV,€5K,1792
+1167, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+1168, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+1169, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+1170, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+1171, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+1172, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+1173, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+1174, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+1175, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+1176, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+1177, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+1178, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+1179, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+1180, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+1181, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+1182, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+1183, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+1184, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+1185, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+1186, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+1187, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+1188, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+1189, Antony,20,RW,79,88,Ajax,€17K,1939
+1190, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+1191, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+1192, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+1193, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+1194, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+1195, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+1196, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+1197, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+1198, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+1199, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+1200, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1201, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+1202, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+1203, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+1204, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+1205, S. Córdova,23,LM,75,83,Club América,€30K,1940
+1206, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+1207, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+1208, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+1209, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+1210, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+1211, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+1212, Nanu,26,RB,73,76,FC Porto,€10K,1969
+1213, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+1214, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+1215, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+1216, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+1217, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+1218, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+1219, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+1220, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+1221, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+1222, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+1223, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+1224, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+1225, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+1226, N. Madueke,18,RM,72,87,PSV,€5K,1792
+1227, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+1228, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+1229, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+1230, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+1231, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+1232, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+1233, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+1234, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+1235, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+1236, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+1237, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+1238, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+1239, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+1240, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+1241, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+1242, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+1243, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+1244, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+1245, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+1246, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+1247, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+1248, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+1249, Antony,20,RW,79,88,Ajax,€17K,1939
+1250, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+1251, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+1252, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+1253, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+1254, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+1255, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+1256, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+1257, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+1258, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+1259, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+1260, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1261, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+1262, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+1263, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+1264, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+1265, S. Córdova,23,LM,75,83,Club América,€30K,1940
+1266, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+1267, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+1268, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+1269, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+1270, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+1271, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+1272, Nanu,26,RB,73,76,FC Porto,€10K,1969
+1273, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+1274, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+1275, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+1276, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+1277, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+1278, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+1279, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+1280, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+1281, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+1282, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+1283, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+1284, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+1285, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+1286, N. Madueke,18,RM,72,87,PSV,€5K,1792
+1287, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+1288, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+1289, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+1290, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+1291, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+1292, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+1293, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+1294, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+1295, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+1296, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+1297, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+1298, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+1299, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+1300, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+1301, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+1302, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+1303, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+1304, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+1305, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+1306, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+1307, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+1308, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+1309, Antony,20,RW,79,88,Ajax,€17K,1939
+1310, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+1311, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+1312, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+1313, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+1314, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+1315, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+1316, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+1317, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+1318, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+1319, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+1320, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1321, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+1322, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+1323, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+1324, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+1325, S. Córdova,23,LM,75,83,Club América,€30K,1940
+1326, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+1327, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+1328, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+1329, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+1330, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+1331, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+1332, Nanu,26,RB,73,76,FC Porto,€10K,1969
+1333, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+1334, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+1335, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+1336, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+1337, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+1338, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+1339, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+1340, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+1341, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+1342, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+1343, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+1344, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+1345, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+1346, N. Madueke,18,RM,72,87,PSV,€5K,1792
+1347, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+1348, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+1349, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+1350, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+1351, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+1352, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+1353, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+1354, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+1355, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+1356, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+1357, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+1358, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+1359, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+1360, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+1361, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+1362, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+1363, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+1364, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+1365, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+1366, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+1367, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+1368, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+1369, Antony,20,RW,79,88,Ajax,€17K,1939
+1370, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+1371, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+1372, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+1373, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+1374, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+1375, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+1376, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+1377, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+1378, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+1379, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+1380, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1381, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+1382, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+1383, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+1384, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+1385, S. Córdova,23,LM,75,83,Club América,€30K,1940
+1386, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+1387, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+1388, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+1389, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+1390, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+1391, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+1392, Nanu,26,RB,73,76,FC Porto,€10K,1969
+1393, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+1394, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+1395, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+1396, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+1397, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+1398, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+1399, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+1400, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+1401, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+1402, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+1403, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+1404, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+1405, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+1406, N. Madueke,18,RM,72,87,PSV,€5K,1792
+1407, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+1408, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+1409, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+1410, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+1411, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+1412, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+1413, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+1414, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+1415, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+1416, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+1417, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+1418, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+1419, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+1420, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+1421, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+1422, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+1423, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+1424, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+1425, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+1426, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+1427, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+1428, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+1429, Antony,20,RW,79,88,Ajax,€17K,1939
+1430, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+1431, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+1432, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+1433, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+1434, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+1435, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+1436, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+1437, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+1438, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+1439, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+1440, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1441, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+1442, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+1443, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+1444, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+1445, S. Córdova,23,LM,75,83,Club América,€30K,1940
+1446, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+1447, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+1448, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+1449, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+1450, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+1451, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+1452, Nanu,26,RB,73,76,FC Porto,€10K,1969
+1453, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+1454, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+1455, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+1456, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+1457, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+1458, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+1459, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+1460, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+1461, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+1462, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+1463, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+1464, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+1465, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+1466, N. Madueke,18,RM,72,87,PSV,€5K,1792
+1467, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+1468, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+1469, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+1470, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+1471, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+1472, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+1473, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+1474, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+1475, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+1476, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+1477, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+1478, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+1479, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+1480, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+1481, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+1482, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+1483, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+1484, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+1485, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+1486, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+1487, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+1488, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+1489, Antony,20,RW,79,88,Ajax,€17K,1939
+1490, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+1491, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+1492, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+1493, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+1494, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+1495, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+1496, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+1497, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+1498, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+1499, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+1500, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1501, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+1502, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+1503, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+1504, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+1505, S. Córdova,23,LM,75,83,Club América,€30K,1940
+1506, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+1507, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+1508, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+1509, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+1510, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+1511, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+1512, Nanu,26,RB,73,76,FC Porto,€10K,1969
+1513, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+1514, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+1515, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+1516, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+1517, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+1518, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+1519, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+1520, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+1521, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+1522, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+1523, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+1524, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+1525, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+1526, N. Madueke,18,RM,72,87,PSV,€5K,1792
+1527, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+1528, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+1529, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+1530, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+1531, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+1532, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+1533, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+1534, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+1535, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+1536, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+1537, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+1538, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+1539, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+1540, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+1541, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+1542, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+1543, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+1544, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+1545, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+1546, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+1547, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+1548, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+1549, Antony,20,RW,79,88,Ajax,€17K,1939
+1550, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+1551, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+1552, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+1553, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+1554, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+1555, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+1556, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+1557, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+1558, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+1559, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+1560, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1561, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+1562, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+1563, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+1564, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+1565, S. Córdova,23,LM,75,83,Club América,€30K,1940
+1566, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+1567, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+1568, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+1569, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+1570, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+1571, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+1572, Nanu,26,RB,73,76,FC Porto,€10K,1969
+1573, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+1574, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+1575, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+1576, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+1577, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+1578, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+1579, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+1580, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+1581, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+1582, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+1583, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+1584, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+1585, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+1586, N. Madueke,18,RM,72,87,PSV,€5K,1792
+1587, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+1588, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+1589, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+1590, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+1591, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+1592, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+1593, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+1594, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+1595, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+1596, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+1597, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+1598, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+1599, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+1600, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+1601, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+1602, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+1603, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+1604, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+1605, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+1606, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+1607, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+1608, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+1609, Antony,20,RW,79,88,Ajax,€17K,1939
+1610, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+1611, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+1612, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+1613, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+1614, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+1615, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+1616, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+1617, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+1618, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+1619, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+1620, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1621, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+1622, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+1623, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+1624, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+1625, S. Córdova,23,LM,75,83,Club América,€30K,1940
+1626, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+1627, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+1628, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+1629, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+1630, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+1631, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+1632, Nanu,26,RB,73,76,FC Porto,€10K,1969
+1633, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+1634, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+1635, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+1636, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+1637, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+1638, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+1639, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+1640, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+1641, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+1642, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+1643, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+1644, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+1645, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+1646, N. Madueke,18,RM,72,87,PSV,€5K,1792
+1647, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+1648, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+1649, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+1650, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+1651, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+1652, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+1653, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+1654, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+1655, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+1656, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+1657, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+1658, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+1659, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+1660, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+1661, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+1662, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+1663, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+1664, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+1665, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+1666, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+1667, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+1668, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+1669, Antony,20,RW,79,88,Ajax,€17K,1939
+1670, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+1671, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+1672, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+1673, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+1674, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+1675, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+1676, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+1677, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+1678, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+1679, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+1680, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1681, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+1682, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+1683, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+1684, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+1685, S. Córdova,23,LM,75,83,Club América,€30K,1940
+1686, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+1687, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+1688, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+1689, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+1690, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+1691, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+1692, Nanu,26,RB,73,76,FC Porto,€10K,1969
+1693, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+1694, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+1695, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+1696, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+1697, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+1698, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+1699, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+1700, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+1701, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+1702, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+1703, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+1704, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+1705, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+1706, N. Madueke,18,RM,72,87,PSV,€5K,1792
+1707, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+1708, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+1709, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+1710, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+1711, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+1712, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+1713, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+1714, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+1715, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+1716, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+1717, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+1718, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+1719, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+1720, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+1721, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+1722, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+1723, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+1724, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+1725, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+1726, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+1727, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+1728, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+1729, Antony,20,RW,79,88,Ajax,€17K,1939
+1730, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+1731, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+1732, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+1733, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+1734, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+1735, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+1736, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+1737, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+1738, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+1739, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+1740, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1741, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+1742, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+1743, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+1744, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+1745, S. Córdova,23,LM,75,83,Club América,€30K,1940
+1746, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+1747, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+1748, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+1749, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+1750, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+1751, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+1752, Nanu,26,RB,73,76,FC Porto,€10K,1969
+1753, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+1754, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+1755, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+1756, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+1757, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+1758, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+1759, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+1760, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+1761, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+1762, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+1763, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+1764, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+1765, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+1766, N. Madueke,18,RM,72,87,PSV,€5K,1792
+1767, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+1768, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+1769, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+1770, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+1771, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+1772, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+1773, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+1774, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+1775, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+1776, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+1777, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+1778, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+1779, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+1780, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+1781, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+1782, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+1783, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+1784, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+1785, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+1786, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+1787, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+1788, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+1789, Antony,20,RW,79,88,Ajax,€17K,1939
+1790, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+1791, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+1792, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+1793, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+1794, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+1795, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+1796, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+1797, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+1798, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+1799, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+1800, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1801, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+1802, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+1803, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+1804, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+1805, S. Córdova,23,LM,75,83,Club América,€30K,1940
+1806, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+1807, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+1808, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+1809, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+1810, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+1811, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+1812, Nanu,26,RB,73,76,FC Porto,€10K,1969
+1813, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+1814, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+1815, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+1816, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+1817, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+1818, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+1819, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+1820, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+1821, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+1822, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+1823, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+1824, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+1825, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+1826, N. Madueke,18,RM,72,87,PSV,€5K,1792
+1827, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+1828, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+1829, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+1830, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+1831, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+1832, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+1833, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+1834, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+1835, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+1836, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+1837, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+1838, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+1839, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+1840, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+1841, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+1842, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+1843, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+1844, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+1845, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+1846, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+1847, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+1848, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+1849, Antony,20,RW,79,88,Ajax,€17K,1939
+1850, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+1851, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+1852, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+1853, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+1854, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+1855, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+1856, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+1857, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+1858, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+1859, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+1860, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1861, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+1862, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+1863, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+1864, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+1865, S. Córdova,23,LM,75,83,Club América,€30K,1940
+1866, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+1867, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+1868, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+1869, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+1870, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+1871, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+1872, Nanu,26,RB,73,76,FC Porto,€10K,1969
+1873, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+1874, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+1875, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+1876, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+1877, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+1878, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+1879, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+1880, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+1881, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+1882, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+1883, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+1884, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+1885, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+1886, N. Madueke,18,RM,72,87,PSV,€5K,1792
+1887, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+1888, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+1889, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+1890, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+1891, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+1892, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+1893, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+1894, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+1895, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+1896, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+1897, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+1898, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+1899, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+1900, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+1901, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+1902, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+1903, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+1904, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+1905, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+1906, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+1907, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+1908, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+1909, Antony,20,RW,79,88,Ajax,€17K,1939
+1910, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+1911, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+1912, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+1913, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+1914, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+1915, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+1916, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+1917, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+1918, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+1919, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+1920, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1921, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+1922, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+1923, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+1924, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+1925, S. Córdova,23,LM,75,83,Club América,€30K,1940
+1926, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+1927, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+1928, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+1929, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+1930, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+1931, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+1932, Nanu,26,RB,73,76,FC Porto,€10K,1969
+1933, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+1934, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+1935, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+1936, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+1937, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+1938, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+1939, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+1940, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+1941, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+1942, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+1943, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+1944, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+1945, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+1946, N. Madueke,18,RM,72,87,PSV,€5K,1792
+1947, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+1948, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+1949, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+1950, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+1951, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+1952, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+1953, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+1954, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+1955, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+1956, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+1957, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+1958, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+1959, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+1960, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+1961, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+1962, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+1963, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+1964, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+1965, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+1966, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+1967, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+1968, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+1969, Antony,20,RW,79,88,Ajax,€17K,1939
+1970, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+1971, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+1972, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+1973, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+1974, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+1975, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+1976, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+1977, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+1978, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+1979, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+1980, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+1981, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+1982, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+1983, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+1984, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+1985, S. Córdova,23,LM,75,83,Club América,€30K,1940
+1986, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+1987, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+1988, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+1989, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+1990, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+1991, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+1992, Nanu,26,RB,73,76,FC Porto,€10K,1969
+1993, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+1994, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+1995, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+1996, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+1997, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+1998, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+1999, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+2000, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+2001, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+2002, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+2003, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+2004, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+2005, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+2006, N. Madueke,18,RM,72,87,PSV,€5K,1792
+2007, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+2008, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+2009, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+2010, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+2011, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+2012, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+2013, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+2014, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+2015, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+2016, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+2017, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+2018, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+2019, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+2020, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+2021, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+2022, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+2023, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+2024, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+2025, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+2026, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+2027, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+2028, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+2029, Antony,20,RW,79,88,Ajax,€17K,1939
+2030, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+2031, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+2032, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+2033, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+2034, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+2035, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+2036, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+2037, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+2038, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+2039, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+2040, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+2041, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+2042, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+2043, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+2044, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+2045, S. Córdova,23,LM,75,83,Club América,€30K,1940
+2046, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+2047, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+2048, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+2049, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+2050, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+2051, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+2052, Nanu,26,RB,73,76,FC Porto,€10K,1969
+2053, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+2054, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+2055, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+2056, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+2057, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+2058, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+2059, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+2060, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+2061, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+2062, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+2063, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+2064, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+2065, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+2066, N. Madueke,18,RM,72,87,PSV,€5K,1792
+2067, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+2068, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+2069, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+2070, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+2071, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+2072, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+2073, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+2074, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+2075, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+2076, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+2077, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+2078, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+2079, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+2080, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+2081, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+2082, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+2083, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+2084, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+2085, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+2086, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+2087, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+2088, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+2089, Antony,20,RW,79,88,Ajax,€17K,1939
+2090, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+2091, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+2092, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+2093, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+2094, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+2095, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+2096, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+2097, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+2098, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+2099, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+2100, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+2101, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+2102, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+2103, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+2104, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+2105, S. Córdova,23,LM,75,83,Club América,€30K,1940
+2106, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+2107, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+2108, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+2109, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+2110, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+2111, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+2112, Nanu,26,RB,73,76,FC Porto,€10K,1969
+2113, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+2114, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+2115, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+2116, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+2117, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+2118, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+2119, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+2120, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+2121, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+2122, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+2123, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+2124, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+2125, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+2126, N. Madueke,18,RM,72,87,PSV,€5K,1792
+2127, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+2128, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+2129, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+2130, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+2131, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+2132, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+2133, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+2134, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+2135, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+2136, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+2137, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+2138, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+2139, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+2140, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+2141, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+2142, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+2143, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+2144, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+2145, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+2146, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+2147, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+2148, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+2149, Antony,20,RW,79,88,Ajax,€17K,1939
+2150, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+2151, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+2152, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+2153, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+2154, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+2155, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+2156, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+2157, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+2158, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+2159, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+2160, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+2161, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+2162, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+2163, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+2164, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+2165, S. Córdova,23,LM,75,83,Club América,€30K,1940
+2166, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+2167, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+2168, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+2169, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+2170, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+2171, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+2172, Nanu,26,RB,73,76,FC Porto,€10K,1969
+2173, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+2174, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+2175, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+2176, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+2177, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+2178, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+2179, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+2180, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+2181, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+2182, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+2183, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+2184, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+2185, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+2186, N. Madueke,18,RM,72,87,PSV,€5K,1792
+2187, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+2188, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+2189, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+2190, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+2191, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+2192, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+2193, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+2194, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+2195, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+2196, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+2197, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+2198, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+2199, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+2200, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+2201, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+2202, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+2203, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+2204, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+2205, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+2206, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+2207, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+2208, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+2209, Antony,20,RW,79,88,Ajax,€17K,1939
+2210, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+2211, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+2212, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+2213, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+2214, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+2215, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+2216, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+2217, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+2218, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+2219, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+2220, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+2221, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+2222, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+2223, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+2224, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+2225, S. Córdova,23,LM,75,83,Club América,€30K,1940
+2226, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+2227, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+2228, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+2229, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+2230, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+2231, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+2232, Nanu,26,RB,73,76,FC Porto,€10K,1969
+2233, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+2234, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+2235, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+2236, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+2237, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+2238, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+2239, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+2240, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+2241, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+2242, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+2243, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+2244, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+2245, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+2246, N. Madueke,18,RM,72,87,PSV,€5K,1792
+2247, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+2248, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+2249, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+2250, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+2251, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+2252, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+2253, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+2254, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+2255, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+2256, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+2257, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+2258, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+2259, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+2260, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+2261, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+2262, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+2263, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+2264, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+2265, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+2266, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+2267, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+2268, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+2269, Antony,20,RW,79,88,Ajax,€17K,1939
+2270, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+2271, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+2272, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+2273, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+2274, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+2275, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+2276, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+2277, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+2278, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+2279, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+2280, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+2281, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+2282, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+2283, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+2284, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+2285, S. Córdova,23,LM,75,83,Club América,€30K,1940
+2286, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+2287, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+2288, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+2289, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+2290, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+2291, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+2292, Nanu,26,RB,73,76,FC Porto,€10K,1969
+2293, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+2294, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+2295, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+2296, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+2297, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+2298, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+2299, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+2300, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+2301, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+2302, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+2303, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+2304, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+2305, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+2306, N. Madueke,18,RM,72,87,PSV,€5K,1792
+2307, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+2308, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+2309, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+2310, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+2311, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+2312, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+2313, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+2314, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+2315, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+2316, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+2317, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+2318, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+2319, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+2320, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+2321, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+2322, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+2323, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+2324, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+2325, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+2326, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+2327, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+2328, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+2329, Antony,20,RW,79,88,Ajax,€17K,1939
+2330, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+2331, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+2332, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+2333, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+2334, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+2335, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+2336, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+2337, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+2338, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+2339, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+2340, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+2341, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+2342, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+2343, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+2344, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+2345, S. Córdova,23,LM,75,83,Club América,€30K,1940
+2346, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+2347, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+2348, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+2349, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+2350, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+2351, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+2352, Nanu,26,RB,73,76,FC Porto,€10K,1969
+2353, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+2354, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+2355, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+2356, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+2357, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+2358, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+2359, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+2360, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+2361, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+2362, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+2363, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+2364, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+2365, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+2366, N. Madueke,18,RM,72,87,PSV,€5K,1792
+2367, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+2368, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+2369, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+2370, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+2371, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+2372, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+2373, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+2374, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+2375, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+2376, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+2377, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+2378, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+2379, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+2380, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+2381, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+2382, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+2383, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+2384, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+2385, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+2386, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+2387, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+2388, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+2389, Antony,20,RW,79,88,Ajax,€17K,1939
+2390, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+2391, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+2392, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+2393, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+2394, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+2395, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+2396, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+2397, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+2398, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+2399, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+2400, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+2401, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+2402, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+2403, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+2404, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+2405, S. Córdova,23,LM,75,83,Club América,€30K,1940
+2406, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+2407, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+2408, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+2409, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+2410, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+2411, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+2412, Nanu,26,RB,73,76,FC Porto,€10K,1969
+2413, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+2414, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+2415, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+2416, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+2417, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+2418, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+2419, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+2420, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+2421, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+2422, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+2423, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+2424, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+2425, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+2426, N. Madueke,18,RM,72,87,PSV,€5K,1792
+2427, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+2428, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+2429, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+2430, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+2431, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+2432, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+2433, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+2434, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+2435, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+2436, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+2437, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+2438, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+2439, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+2440, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+2441, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+2442, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+2443, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+2444, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+2445, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+2446, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+2447, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+2448, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+2449, Antony,20,RW,79,88,Ajax,€17K,1939
+2450, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+2451, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+2452, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+2453, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+2454, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+2455, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+2456, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+2457, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+2458, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+2459, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+2460, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+2461, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+2462, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+2463, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+2464, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+2465, S. Córdova,23,LM,75,83,Club América,€30K,1940
+2466, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+2467, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+2468, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+2469, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+2470, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+2471, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+2472, Nanu,26,RB,73,76,FC Porto,€10K,1969
+2473, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+2474, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+2475, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+2476, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+2477, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+2478, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+2479, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+2480, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+2481, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+2482, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+2483, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+2484, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+2485, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+2486, N. Madueke,18,RM,72,87,PSV,€5K,1792
+2487, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+2488, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+2489, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+2490, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+2491, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+2492, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+2493, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+2494, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+2495, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+2496, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+2497, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+2498, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+2499, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+2500, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+2501, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+2502, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+2503, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+2504, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+2505, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+2506, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+2507, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+2508, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+2509, Antony,20,RW,79,88,Ajax,€17K,1939
+2510, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+2511, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+2512, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+2513, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+2514, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+2515, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+2516, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+2517, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+2518, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+2519, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+2520, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+2521, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+2522, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+2523, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+2524, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+2525, S. Córdova,23,LM,75,83,Club América,€30K,1940
+2526, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+2527, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+2528, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+2529, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+2530, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+2531, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+2532, Nanu,26,RB,73,76,FC Porto,€10K,1969
+2533, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+2534, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+2535, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+2536, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+2537, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+2538, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+2539, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+2540, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+2541, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+2542, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+2543, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+2544, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+2545, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+2546, N. Madueke,18,RM,72,87,PSV,€5K,1792
+2547, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+2548, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+2549, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+2550, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+2551, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+2552, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+2553, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+2554, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+2555, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+2556, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+2557, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+2558, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+2559, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+2560, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+2561, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+2562, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+2563, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+2564, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+2565, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+2566, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+2567, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+2568, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+2569, Antony,20,RW,79,88,Ajax,€17K,1939
+2570, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+2571, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+2572, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+2573, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+2574, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+2575, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+2576, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+2577, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+2578, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+2579, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+2580, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+2581, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+2582, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+2583, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+2584, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+2585, S. Córdova,23,LM,75,83,Club América,€30K,1940
+2586, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+2587, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+2588, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+2589, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+2590, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+2591, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+2592, Nanu,26,RB,73,76,FC Porto,€10K,1969
+2593, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+2594, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+2595, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+2596, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+2597, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+2598, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+2599, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+2600, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+2601, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+2602, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+2603, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+2604, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+2605, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+2606, N. Madueke,18,RM,72,87,PSV,€5K,1792
+2607, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+2608, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+2609, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+2610, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+2611, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+2612, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+2613, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+2614, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+2615, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+2616, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+2617, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+2618, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+2619, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+2620, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+2621, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+2622, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+2623, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+2624, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+2625, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+2626, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+2627, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+2628, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+2629, Antony,20,RW,79,88,Ajax,€17K,1939
+2630, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+2631, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+2632, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+2633, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+2634, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+2635, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+2636, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+2637, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+2638, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+2639, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+2640, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+2641, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+2642, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+2643, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+2644, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+2645, S. Córdova,23,LM,75,83,Club América,€30K,1940
+2646, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+2647, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+2648, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+2649, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+2650, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+2651, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+2652, Nanu,26,RB,73,76,FC Porto,€10K,1969
+2653, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+2654, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+2655, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+2656, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+2657, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+2658, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+2659, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+2660, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+2661, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+2662, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+2663, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+2664, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+2665, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+2666, N. Madueke,18,RM,72,87,PSV,€5K,1792
+2667, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+2668, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+2669, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+2670, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+2671, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+2672, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+2673, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+2674, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+2675, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+2676, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+2677, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+2678, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+2679, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+2680, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+2681, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+2682, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+2683, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+2684, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+2685, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+2686, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+2687, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+2688, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+2689, Antony,20,RW,79,88,Ajax,€17K,1939
+2690, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+2691, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+2692, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+2693, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+2694, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+2695, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+2696, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+2697, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+2698, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+2699, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+2700, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+2701, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+2702, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+2703, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+2704, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+2705, S. Córdova,23,LM,75,83,Club América,€30K,1940
+2706, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+2707, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+2708, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+2709, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+2710, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+2711, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+2712, Nanu,26,RB,73,76,FC Porto,€10K,1969
+2713, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+2714, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+2715, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+2716, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+2717, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+2718, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+2719, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+2720, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+2721, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+2722, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+2723, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+2724, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+2725, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+2726, N. Madueke,18,RM,72,87,PSV,€5K,1792
+2727, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+2728, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+2729, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+2730, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+2731, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+2732, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+2733, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+2734, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+2735, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+2736, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+2737, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+2738, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+2739, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+2740, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+2741, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+2742, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+2743, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+2744, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+2745, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+2746, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+2747, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+2748, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+2749, Antony,20,RW,79,88,Ajax,€17K,1939
+2750, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+2751, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+2752, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+2753, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+2754, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+2755, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+2756, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+2757, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+2758, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+2759, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+2760, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+2761, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+2762, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+2763, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+2764, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+2765, S. Córdova,23,LM,75,83,Club América,€30K,1940
+2766, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+2767, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+2768, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+2769, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+2770, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+2771, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+2772, Nanu,26,RB,73,76,FC Porto,€10K,1969
+2773, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+2774, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+2775, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+2776, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+2777, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+2778, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+2779, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+2780, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+2781, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+2782, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+2783, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+2784, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+2785, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+2786, N. Madueke,18,RM,72,87,PSV,€5K,1792
+2787, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+2788, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+2789, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+2790, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+2791, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+2792, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+2793, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+2794, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+2795, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+2796, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+2797, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+2798, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+2799, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+2800, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+2801, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+2802, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+2803, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+2804, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+2805, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+2806, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+2807, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+2808, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+2809, Antony,20,RW,79,88,Ajax,€17K,1939
+2810, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+2811, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+2812, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+2813, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+2814, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+2815, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+2816, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+2817, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+2818, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+2819, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+2820, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+2821, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+2822, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+2823, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+2824, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+2825, S. Córdova,23,LM,75,83,Club América,€30K,1940
+2826, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+2827, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+2828, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+2829, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+2830, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+2831, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+2832, Nanu,26,RB,73,76,FC Porto,€10K,1969
+2833, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+2834, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+2835, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+2836, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+2837, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+2838, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+2839, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+2840, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+2841, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+2842, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+2843, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+2844, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+2845, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+2846, N. Madueke,18,RM,72,87,PSV,€5K,1792
+2847, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+2848, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+2849, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+2850, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+2851, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+2852, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+2853, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+2854, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+2855, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+2856, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+2857, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+2858, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+2859, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+2860, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+2861, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+2862, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+2863, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+2864, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+2865, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+2866, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+2867, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+2868, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+2869, Antony,20,RW,79,88,Ajax,€17K,1939
+2870, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+2871, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+2872, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+2873, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+2874, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+2875, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+2876, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+2877, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+2878, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+2879, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+2880, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+2881, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+2882, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+2883, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+2884, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+2885, S. Córdova,23,LM,75,83,Club América,€30K,1940
+2886, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+2887, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+2888, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+2889, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+2890, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+2891, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+2892, Nanu,26,RB,73,76,FC Porto,€10K,1969
+2893, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+2894, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+2895, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+2896, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+2897, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+2898, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+2899, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+2900, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+2901, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+2902, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+2903, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+2904, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+2905, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+2906, N. Madueke,18,RM,72,87,PSV,€5K,1792
+2907, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+2908, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+2909, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+2910, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+2911, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+2912, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+2913, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+2914, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+2915, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+2916, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+2917, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+2918, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+2919, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+2920, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+2921, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+2922, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+2923, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+2924, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+2925, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+2926, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+2927, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+2928, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+2929, Antony,20,RW,79,88,Ajax,€17K,1939
+2930, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+2931, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+2932, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+2933, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+2934, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+2935, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+2936, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+2937, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+2938, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+2939, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
+2940, V. Thill,20,RW,63,77,CD Nacional,€2K,1551
+2941, S. Wamangituka,20,RM,72,83,VfB Stuttgart,€13K,1847
+2942, 14 A. Wolf,31,CB,73,73,AS Monaco,€30K,1621
+2943, N. De la Cruz,23,CM,78,85,River Plate,€17K,2180
+2944, Isco,28,CAM,83,83,Real Madrid,€190K,2077
+2945, S. Córdova,23,LM,75,83,Club América,€30K,1940
+2946, X. Simons,17,CM,65,85,Paris Saint-Germain,€2K,1656
+2947, J. Grealish,24,LW,83,86,Aston Villa,€82K,2014
+2948, A. Diallo,17,ST,64,84,Manchester United,€5K,1510
+2949, E. Mwepu,22,CDM,75,82,FC Red Bull Salzburg,€20K,2035
+2950, R. Gravenberch,18,CM,75,89,Ajax,€6K,2016
+2951, R. Cherki,16,RW,69,88,Olympique Lyonnais,€6K,1623
+2952, Nanu,26,RB,73,76,FC Porto,€10K,1969
+2953, E. Hazard,29,LW,87,87,Real Madrid,€290K,2096
+2954, Y. Demir,17,CAM,66,87,SK Rapid Wien,€1K,1629
+2955, C. Hudson-Odoi,19,RW,75,86,Chelsea,€44K,1816
+2956, B. Saka,18,RM,77,88,Arsenal,€25K,1968
+2957, B. White,22,CB,76,87,Brighton & Hove Albion,€40K,1663
+2958, Bruno Viana,25,CB,77,81,SC Braga,€14K,1733
+2959, E. Haaland,19,ST,86,92,Borussia Dortmund,€67K,2052
+2960, Pedri,17,LM,76,90,FC Barcelona,€14K,1865
+2961, M. Mandžukić,34,ST,79,79,Milan,€48K,2041
+2962, E. Camavinga,17,CM,78,89,Stade Rennais FC,€6K,2086
+2963, J. Musiala,17,CAM,68,85,FC Bayern München,€3K,1561
+2964, M. Simakan,20,CB,74,84,RC Strasbourg Alsace,€16K,1734
+2965, J. Gvardiol,18,CB,71,87,Dinamo Zagreb,€500,1817
+2966, N. Madueke,18,RM,72,87,PSV,€5K,1792
+2967, D. Upamecano,21,CB,81,90,RB Leipzig,€41K,1841
+2968, J. Lingard,27,CAM,77,77,Manchester United,€95K,2064
+2969, J. Bellingham,17,CM,74,88,Borussia Dortmund,€6K,1962
+2970, R. Araujo,21,CB,71,81,FC Barcelona,€45K,1591
+2971, Ansu Fati,17,LW,76,90,FC Barcelona,€24K,1817
+2972, L. Messi,33,RW,93,93,FC Barcelona,€560K,2231
+2973, G. Reyna,17,CAM,75,88,Borussia Dortmund,€6K,1858
+2974, D. Szoboszlai,19,CAM,77,87,RB Leipzig,€27K,1967
+2975, K. Adeyemi,18,ST,69,86,FC Red Bull Salzburg,€6K,1750
+2976, M. Greenwood,18,RM,77,89,Manchester United,€33K,1922
+2977, M. Vandevoordt,18,GK,68,86,KRC Genk,€550,911
+2978, Matheus Cunha,21,CAM,80,87,Hertha BSC,€40K,1993
+2979, A. Hložek,17,ST,74,87,Sparta Praha,€500,1881
+2980, O. Kabak,20,CB,75,85,FC Schalke 04,€17K,1714
+2981, S. Dest,19,RB,75,88,FC Barcelona,€50K,1964
+2982, F. Wirtz,17,CAM,75,88,Bayer 04 Leverkusen,€7K,1876
+2983, T. Almada,19,CAM,74,88,Vélez Sarsfield,€9K,2001
+2984, P. Daka,21,ST,76,83,FC Red Bull Salzburg,€22K,1832
+2985, M. Mount,21,CAM,80,87,Chelsea,€70K,1997
+2986, P. De la Vega,19,RW,74,88,Club Atlético Lanús,€11K,1981
+2987, Cristiano Ronaldo,35,ST,92,92,Juventus,€220K,2221
+2988, D. Núñez,21,ST,76,87,SL Benfica,€11K,1905
+2989, Antony,20,RW,79,88,Ajax,€17K,1939
+2990, T. Lamptey,19,RWB,73,85,Brighton & Hove Albion,€20K,1777
+2991, F. Pellistri,18,RM,71,87,Manchester United,€19K,1736
+2992, Pedro Gonçalves,22,RW,79,87,Sporting CP,€16K,2021
+2993, R. Jones,17,ST,59,82,Peterborough United,€500,1544
+2994, M. Ihattaren,18,CAM,77,87,PSV,€7K,1891
+2995, T. Souček,25,CDM,81,86,West Ham United,€46K,2075
+2996, Rúben Dias,23,CB,82,87,Manchester City,€110K,1777
+2997, P. Foden,20,CAM,81,91,Manchester City,€95K,1997
+2998, Nuno Tavares,20,LB,73,86,SL Benfica,€7K,1900
+2999, M. Kudus,19,CAM,77,87,Ajax,€10K,2015
